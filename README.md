@@ -1,3 +1,3 @@
 # Portfolio
-this is my personal portfolio website : https://hsodhani.github.io/Portfolio/
+this is my personal portfolio website : http://hardiksodhani.tk/
 
